@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_1AmCEbDMEeijfrNzTYwlHQ" label="GettingSampleDemo" description="" language="java" technicalLabel="GETTINGSAMPLEDEMO" creationDate="2018-09-05T14:27:08.113+0900" author="_1AmCErDMEeijfrNzTYwlHQ" productVersion="Talend Real-time Big Data Platform-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rkadoi-tlnd/talend20180905&quot;,&quot;login&quot;:&quot;rkadoi@talend.com&quot;,&quot;passwd&quot;:&quot;+e3yMRYWAm3sTVRSv53MlQ==&quot;,&quot;settings&quot;:&quot;001&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_1AmCErDMEeijfrNzTYwlHQ" login="ryo.kadoi@gmail.com" firstName="Ryosuke" lastName="Kadoi" type="DI" additionnalData="{}"/>
+</xmi:XMI>
